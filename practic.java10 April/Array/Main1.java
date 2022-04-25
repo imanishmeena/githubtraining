@@ -19,6 +19,8 @@ class Main1 {
       average =  ((double)sum / (double)arrayLength);
    
       System.out.println("Sum = " + sum);
-      System.out.println("Average = " + average);
+      
+
+        System.out.println("Average = " + average);
     }
    }
